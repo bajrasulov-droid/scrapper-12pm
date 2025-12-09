@@ -112,11 +112,20 @@ if __name__ == "__main__":
 
 
 
+
+
 #git config --global user.name "Sulov Bajracharya"
 #git config --global user.email "bajrasulov@gmail.com"
+
+
 #git init 
 #git stauts => if you want to check what are the status of files
 #git add.
 #git commit -m "Your message "
 # create repository in git hub
 # copy paste git code from github
+
+# 1. change the code
+# 2. git add .
+# 3. git commit -m " Your comment "
+# 4. git push
